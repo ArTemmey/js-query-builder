@@ -1,0 +1,29 @@
+{
+  "name": "abstract-query-builder",
+  "version": "1.1.8",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "ts-node node_modules/jasmine/bin/jasmine"
+  },
+  "keywords": [
+    "sql",
+    "javascript",
+    "typescript",
+    "query",
+    "builder"
+  ],
+  "author": "Artemiy Lunkov <a.lunkov@evotor.ru> (http://evotor.ru/)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ArtemiyDmtrvch/abstract-query-builder.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.8.8",
+    "jasmine": "^3.1.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.7.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "spec_dir": "example",
+  "spec_files": [
+    "DemoEntityQuery.ts"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": true
+}
